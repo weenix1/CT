@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63bfedeb-c5c1-4814-845d-e0875d80c089" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tKsH8dvBGJeTAWMLmBFAiHS4CT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/jcommander-1.78.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="a6" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;.\exercises\aufg1.2a.md&quot; -o .\out -a &quot;mbcdt&quot; -a &quot;mcdc&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="a6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ClientTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkdownReaderTest.readExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="a6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MarkdownReaderTest" />
+      <option name="METHOD_NAME" value="readExamples(java.lang.String,[[Ljava.lang.Boolean;)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TruthtableTest.testCountsAtomsWithExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="a6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TruthtableTest" />
+      <option name="METHOD_NAME" value="testCountsAtomsWithExample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TruthtableTest.testCountsAtomsWithSingleAtom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="a6" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TruthtableTest" />
+      <option name="METHOD_NAME" value="testCountsAtomsWithSingleAtom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="JUnit.ClientTest" />
+      <item itemvalue="JUnit.MarkdownReaderTest.readExamples" />
+      <item itemvalue="JUnit.TruthtableTest.testCountsAtomsWithExample" />
+      <item itemvalue="JUnit.TruthtableTest.testCountsAtomsWithSingleAtom" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MarkdownReaderTest.readExamples" />
+        <item itemvalue="JUnit.TruthtableTest.testCountsAtomsWithSingleAtom" />
+        <item itemvalue="JUnit.TruthtableTest.testCountsAtomsWithExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63bfedeb-c5c1-4814-845d-e0875d80c089" name="Default Changelist" comment="" />
+      <created>1622529024673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622529024673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="390" width="751" height="659" key="#Client" timestamp="1623083560813">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="357" y="390" width="751" height="659" key="#Client/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623083560813" />
+    <state x="872" y="378" width="1346" height="683" key="#Project_Structure" timestamp="1622529798894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="872" y="378" width="1346" height="683" key="#Project_Structure/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1622529798894" />
+    <state x="628" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623084237877">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="628" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623084237877" />
+    <state x="1085" y="429" key="#com.intellij.ide.util.MemberChooser" timestamp="1622534903201">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1085" y="429" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1622534903201" />
+    <state x="1060" y="475" key="FileChooserDialogImpl" timestamp="1622529794227">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1060" y="475" key="FileChooserDialogImpl/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1622529794227" />
+    <state width="2517" height="422" key="GridCell.Tab.0.bottom" timestamp="1623084240772">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="422" key="GridCell.Tab.0.bottom/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623084240772" />
+    <state width="2517" height="422" key="GridCell.Tab.0.center" timestamp="1623084240772">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="422" key="GridCell.Tab.0.center/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623084240772" />
+    <state width="2517" height="422" key="GridCell.Tab.0.left" timestamp="1623084240772">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="422" key="GridCell.Tab.0.left/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623084240772" />
+    <state width="2517" height="422" key="GridCell.Tab.0.right" timestamp="1623084240772">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="422" key="GridCell.Tab.0.right/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623084240772" />
+    <state x="810" y="375" key="Maven.ArtifactSearchDialog" timestamp="1622529538079">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="810" y="375" key="Maven.ArtifactSearchDialog/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1622529538079" />
+    <state x="943" y="-716" key="com.intellij.ide.util.TipDialog" timestamp="1623080577562">
+      <screen x="287" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="943" y="-716" key="com.intellij.ide.util.TipDialog/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@287.-1080.1920.1080" timestamp="1623080577562" />
+    <state x="856" y="456" width="1355" height="760" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1623082907265">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="856" y="456" width="1355" height="760" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623082907265" />
+    <state x="1275" y="201" width="1936" height="985" key="dock-window-1" timestamp="1623083744590">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1275" y="201" width="1936" height="985" key="dock-window-1/0.0.2560.1440/-1080.-340.1080.1920/287.-1080.1920.1080@0.0.2560.1440" timestamp="1623083744590" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Client.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
